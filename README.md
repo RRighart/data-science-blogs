@@ -179,6 +179,7 @@ A curated list of data science blogs
 * Revolutions http://blog.revolutionanalytics.com/ [(RSS)] (http://blog.revolutionanalytics.com/atom.xml)
 * Rinu Boney http://rinuboney.github.io/ [(RSS)] (http://rinuboney.github.io/feed.xml)
 * RNDuja Blog http://rnduja.github.io/ [(RSS)] (http://rnduja.github.io/feed.xml)
+* Ruthger Righart Data science blogs https://www.rrighart.com/blog.html
 * Robert Chang https://medium.com/@rchang [(RSS)] (https://medium.com/feed/@rchang)
 * Rocket-Powered Data Science http://rocketdatascience.org [(RSS)] (http://rocketdatascience.org/?feed=rss2)
 * Sachin Joglekar's blog https://codesachin.wordpress.com/ [(RSS)] (https://codesachin.wordpress.com/feed/)
